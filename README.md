@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ttoro%20GitHub&fontSize=90&fontAlign=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=seungjun0209%20GitHub&fontSize=90&fontAlign=65)
 
   <br/>
 
@@ -117,7 +117,7 @@ Here are some ideas to get you started:
    <br/>
    <br/>
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttoro-lee&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjun0209&show_icons=true&theme=radical)
 
 
   <br/>
