@@ -19,11 +19,11 @@ Here are some ideas to get you started:
   <br/>
 
   ### Education
-  - 🎓 Changwon-Nam High School (2014.03 ~ 2017.02)
-  - 🎓 Hankuk University of Foreign Studies, Global (2017.03 ~ 2024.02 )
-  - 🎓 Seoul ICT Innovation Square, AI tech Middle Course (2021.07 ~ 2021.08)
-  - 🎓 KT AIVLE School 3rd (2023.01 ~ 2023.07)
-  - 🎓 LG Aimers 3rd (2023.07 ~ 2023.08)
+  - 🎓 Hyoja High School (2014.03 ~ 2017.02)
+  - 🎓 Hankuk University of Foreign Studies, Global (2017.03 ~  )
+  - 🎓 
+  - 🎓 
+  - 🎓 
 
   ### Reward
   - 🥈 
