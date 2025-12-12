@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   ### Education
   - 🎓 Hyoja High School (2014.03 ~ 2017.02)
   - 🎓 Hankuk University of Foreign Studies, Global (2017.03 ~  )
-  - 🎓 인스웨이브 1기 채용연계형 MSA 기반 Full Stack 개발 전문가 양성과정(2025.02 ~ 2025.07)
-  - 🎓 
+  - 🎓 인스웨이브 1기 채용연계형 MSA 기반 Full Stack 개발 전문가 양성과정 (2025.02 ~ 2025.07)
+  - 🎓 LG CNS AM Inspire Camp 4기 (2025.12 ~ 2026.06)
   - 🎓 
 
   ### Reward
