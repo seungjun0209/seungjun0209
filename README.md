@@ -29,20 +29,20 @@ Here are some ideas to get you started:
   - 🏆️ 
 
   ### License
-  - 🪧 
+  - 🪧 FLEX 일본어 774점
 
   ### Hobby
-  - 🎮 
-  - 🍸 Whisky Tasting
-  - 🎸 Playing Guitar
-  - 🏋️‍♂️ Weight Trainning
+  - 🎮 게임하기
+  - 🍸 인터넷 쇼핑
+  - 🎸 영화 감상
+  - 🏋️‍♂️ 
 
   <br/>
   
   <div align="center">
   
   #### 📫 Contact
-  <a href="mailto:jun980209@naver.com"><img src="https://img.shields.io/badge/Naver-jun980209@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&Height=30&link=mailto:jun980209@naver.com"/></a>
+  <a href="mailto:choi.seungjun.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-choi.seungjun@gmail.com-03C75A?style=flat-square&logo=Naver&logoColor=white&Height=30&link=mailto:jun980209@naver.com"/></a>
  
  <!-- 
   #### 🔭 My Skill
